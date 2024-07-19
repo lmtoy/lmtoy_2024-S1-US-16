@@ -19,7 +19,7 @@ pars1["A262_1"] = ""
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
 pars2 = {}
-pars2["A262_1"] = "bank=0"
+pars2["A262_1"] = "bank=0 pix_list=-13"
 
 #        common parameters per source on subsequent runs (run1c, run2c), e.g. bank=1 for WARES
 pars3 = {}
