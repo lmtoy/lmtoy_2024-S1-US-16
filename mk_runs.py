@@ -10,11 +10,14 @@ project="2024-S1-US-16"
 
 #        obsnums per source (make it negative if not added to the final combination)
 on = {}
-on["A262_1"] =  [ 119785, 119786, 120088, 120102,]
+on["A262_1"] =  [ 119785, 119786, 120088, 120102, 120275,]
 
-on["A262_2"] =  [ 120096, 120104,]
+on["A262_2"] =  [ 120096, 120104,-120279, 120355,]
 
-on["A262_3"] =  [ 120100, 120106,]
+on["A262_3"] =  [ 120100, 120106, 120359, 120361,]
+
+on["A262_4"] =  [ 120367, 120369,]
+
 
 
 #        common parameters per source on the first dryrun (run1a, run2a)
@@ -22,6 +25,7 @@ pars1 = {}
 pars1["A262_1"] = "extent=240"
 pars1["A262_2"] = "extent=240"
 pars1["A262_3"] = "extent=240"
+pars1["A262_4"] = "extent=240"
 
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
@@ -29,6 +33,7 @@ pars2 = {}
 pars2["A262_1"] = "bank=0 pix_list=-13"
 pars2["A262_2"] = "bank=0 pix_list=-13"
 pars2["A262_3"] = "bank=0 pix_list=-13"
+pars2["A262_4"] = "bank=0 pix_list=-13"
 
 #        common parameters per source on subsequent runs (run1c, run2c), e.g. bank=1 for WARES
 pars3 = {}
