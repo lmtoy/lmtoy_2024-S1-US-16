@@ -1,8 +1,15 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 
 
-120275   some wavys?
-120279   QAFAIL weather cancelled 
+120275   some wavys?	#qagrade=1
+120279   [QAFAIL] weather cancelled	#qagrade=-2
+120462	 [Al] [QAFAIL] strong features in wf plot	#qagrade=-2
+120903	 [Al] rm'd beam 1	#pix_list=-1 qagrade=3
+121289	 [Al] rm'd beam 6	#pix_list=-6 qagrade=3
+120458   [Al] slight features in wf plot (kept in combo)        #qagrade=2
+120533	 [Al] slight features in wf plot (kept in combo)        #qagrade=2
+120275   [Al] slight features in wf plot (kept in combo)        #qagrade=2 	
+ 
 # 120361  maybe
 
 # 120369  ok
