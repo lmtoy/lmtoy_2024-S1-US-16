@@ -7,13 +7,13 @@ this project uses a single IF, at CO(1-0), on 4 sources in the Abell 262 cluster
 120279 for A262_2:  Cancelled due to a fast increase in Tau, RH and presence of dense fog. 
 
 
-A262_1  5  1717.68 63.819 
+* A262_1  5  1717.68 63.819 
 
-A262_2  3  1030.48  81.9352 
+* A262_2  3  1030.48  81.9352 
 
-A262_3  4  1373.91  69.8916
+* A262_3  4  1373.91  69.8916
 
-A262_4  2  686.88   93.6321
+* A262_4  26  8931 s  26 mK - good detection
 
 ## Mark's info
 
@@ -67,3 +67,19 @@ Also note in the scientific justification that I had estimated the CO
 luminosities based on the 1.4 [GHz] radio continuum fluxes.  I suppose
 there is quite a scatter in this relation, so expected S/N levels are
 not guaranteed. 
+
+### Non-standard gridding
+
+The default gridding gives nppb=2, but we experimented with nppb=4, but
+for this rmax needs to be increased to avoid finding pixels (mostly
+near the edge) with no beam passing through.
+
+In addition, there is a bug (aug 2024) that combinations cannot redefine
+the gridding, so to fake it, the first obsnum can be quickly patched with
+new gridding parameters, after which the combination will inherit them
+from that first obsnum. https://github.com/astroumd/lmtoy/issues/56
+
+### Non-standard ON/OFF calibration.
+
+We could/should investigate if using the RAMP as an OFF, instead of the
+real OFF. Based on some unstable baselines. https://github.com/astroumd/lmtoy/issues/55
