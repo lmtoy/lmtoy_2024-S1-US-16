@@ -7,6 +7,9 @@
 
 # 120369  ok
 
+
+# November data (obsnum >= 121861) seem to have beam 3 bad now
+
 119785_120275 nothing yet
 120096_120355 nothing yet
 120100_120361 nothing yet
