@@ -7,6 +7,22 @@
 
 # 120369  ok
 
+121897  QAFAIL 10MHz distribution box off
+121891  QAFAIL 10MHz distribution box off
+121889  QAFAIL 10MHz distribution box off
+121887  QAFAIL 10MHz distribution box off
+121885  QAFAIL 10MHz distribution box off
+121883  QAFAIL 10MHz distribution box off
+121881  QAFAIL 10MHz distribution box off
+121875  QAFAIL 10MHz distribution box off
+121873  QAFAIL 10MHz distribution box off
+121871  QAFAIL 10MHz distribution box off
+121869  QAFAIL 10MHz distribution box off
+121865  QAFAIL 10MHz distribution box off
+121863  QAFAIL 10MHz distribution box off
+121861  QAFAIL 10MHz distribution box off
+
+
 # _4
 120367_120369 detection
 120367_120905 detection
