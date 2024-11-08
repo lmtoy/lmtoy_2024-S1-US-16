@@ -7,13 +7,17 @@
 
 # 120369  ok
 
-119785_120275 nothing obvious
-120096_120355 nothing obvious
-120100_120361 nothing obvious
-
 # _4
 120367_120369 detection
 120367_120905 detection
 
 # _1
 119785_121289 weak detection
+
+
+# November data (obsnum >= 121861) seem to have beam 3 bad now
+
+119785_120275 nothing yet
+120096_120355 nothing yet
+120100_120361 nothing yet
+
