@@ -15,7 +15,22 @@ this project uses a single IF, at CO(1-0), on 4 sources in the Abell 262 cluster
 
 * A262_4  26/26   8931 s   26 mK - good detection (first obsnum: 120367)
 
-## Mark's info
+
+## Marc's info
+
+```
+         Nmaps   R     rms
+                km/s    mK
+ A262_1 :  39    19    3.5
+ A262_2 :  12    21    6.9
+ A262_3 :  15    17    6.5
+ A262_4 :  26    47    3.1
+```
+
+where R was choosen to give 10 resolution elements to cover the width of the signal
+
+ 
+## Marc's info
 
 Based on the HI data in the Apertif cubes (R=7.6 km/s), I find the
 folowing frequency, cz and Vrad ranges over which the HI emission is
