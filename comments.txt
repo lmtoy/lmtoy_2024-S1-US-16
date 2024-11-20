@@ -12,22 +12,30 @@
 # 120369  ok
 
 121897  QAFAIL 10MHz distribution box off
-121891  QAFAIL 10MHz distribution box off
-121889  QAFAIL 10MHz distribution box off
-121887  QAFAIL 10MHz distribution box off
-121885  QAFAIL 10MHz distribution box off
-121883  QAFAIL 10MHz distribution box off
-121881  QAFAIL 10MHz distribution box off
-121875  QAFAIL 10MHz distribution box off
-121873  QAFAIL 10MHz distribution box off
-121871  QAFAIL 10MHz distribution box off
-121869  QAFAIL 10MHz distribution box off
-121865  QAFAIL 10MHz distribution box off
-121863  QAFAIL 10MHz distribution box off
-121861  QAFAIL 10MHz distribution box off
+121891  QAFAIL 10MHz distribution box off   # pix_list=-3,8,15
+121889  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121887  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121885  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121883  QAFAIL 10MHz distribution box off   # pix_list=-3,8,15
+121881  QAFAIL 10MHz distribution box off   # pix_list=-3,8,15
 
+121875  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121873  QAFAIL 10MHz distribution box off FAIL?
+121871  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121869  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121865  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121863  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121861  QAFAIL 10MHz distribution box off   # pix_list=-3,15
 
+122278                                      # pix_list=-8,15
+120458  QAFAIL bad wavys
+120533  bad ending?
 
+122027  blemish 3,8
+122029                   # pix_list=-8,15
+122705  blemish 0,1,2,3,8
+122707  blemish 0,1,2,3,8
+122709  low ripples?
 
 # November data (obsnum >= 121861) seem to have beam 3 bad now
 
