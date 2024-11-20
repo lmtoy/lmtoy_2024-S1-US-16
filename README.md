@@ -7,13 +7,13 @@ this project uses a single IF, at CO(1-0), on 4 sources in the Abell 262 cluster
 120279 for A262_2:  Cancelled due to a fast increase in Tau, RH and presence of dense fog. 
 
 
-* A262_1  5  1717.68 63.819 
+* A262_1  41/42  14167 s   18 mK - good detection (first obsnum: 119785)
 
-* A262_2  3  1030.48  81.9352 
+* A262_2  5/13    1723 s   61 mK - nothing yet (first obsnum: 120096)
 
-* A262_3  4  1373.91  69.8916
+* A262_3  16/22   5521 s   34 ms - possible detection  (first obsnum:120100)
 
-* A262_4  26  8931 s  26 mK - good detection
+* A262_4  26/26   8931 s   26 mK - good detection (first obsnum: 120367)
 
 ## Mark's info
 

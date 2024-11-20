@@ -2,8 +2,12 @@
 
 
 120275   some wavys?
+
+# 120279 for A262_2:  Cancelled due to a fast increase in Tau, RH and presence of dense fog.
 120279   QAFAIL weather cancelled 
+
 # 120361  maybe
+
 
 # 120369  ok
 
@@ -23,17 +27,18 @@
 121861  QAFAIL 10MHz distribution box off
 
 
-# _4
-120367_120369 detection
-120367_120905 detection
-
-# _1
-119785_121289 weak detection
 
 
 # November data (obsnum >= 121861) seem to have beam 3 bad now
 
-119785_120275 nothing yet
 120096_120355 nothing yet
 120100_120361 nothing yet
+
+119785_122593 A262_1 detection
+
+
+# _4
+120367_120369 detection
+120367_120905 detection
+
 
