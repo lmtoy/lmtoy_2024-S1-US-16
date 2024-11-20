@@ -34,11 +34,10 @@
 120096_120355 nothing yet
 120100_120361 nothing yet
 
-119785_122593 A262_1 detection
+119785_122593 A262_1 good detection
 
 
 # _4
 120367_120369 detection
 120367_120905 detection
-
-
+120367_121004 weak detection
