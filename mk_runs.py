@@ -41,10 +41,10 @@ on["A262_4"] =  [ 120367, 120369, 120462, 120564, 120566, 120568, 120570, 120572
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}   
-pars1["A262_1"] = "extent=240"                 # W=236
-pars1["A262_2"] = "extent=240"                 # W=213
-pars1["A262_3"] = "extent=240"                 # W=129
-pars1["A262_4"] = "extent=240 dv=275 dw=375"   # W=502
+pars1["A262_1"] = "extent=240"                 # W=236  R=19
+pars1["A262_2"] = "extent=240"                 # W=213  R=21
+pars1["A262_3"] = "extent=240"                 # W=129  R=18
+pars1["A262_4"] = "extent=240 dv=275 dw=375"   # W=502  R=47
 
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
