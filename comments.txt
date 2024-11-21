@@ -12,27 +12,27 @@
 # 120369  ok
 
 121897  QAFAIL 10MHz distribution box off
-121891  QAFAIL 10MHz distribution box off   # pix_list=-3,8,15
-121889  QAFAIL 10MHz distribution box off   # pix_list=-3,15
-121887  QAFAIL 10MHz distribution box off   # pix_list=-3,15
-121885  QAFAIL 10MHz distribution box off   # pix_list=-3,15
-121883  QAFAIL 10MHz distribution box off   # pix_list=-3,8,15
-121881  QAFAIL 10MHz distribution box off   # pix_list=-3,8,15
+121891  QAFAIL 10MHz distribution box off   # pix_list=-3,8,13
+121889  QAFAIL 10MHz distribution box off   # pix_list=-3,13
+121887  QAFAIL 10MHz distribution box off   # pix_list=-3,13
+121885  QAFAIL 10MHz distribution box off   # pix_list=-3,13
+121883  QAFAIL 10MHz distribution box off   # pix_list=-3,8,13
+121881  QAFAIL 10MHz distribution box off   # pix_list=-3,8,13
 
-121875  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121875  QAFAIL 10MHz distribution box off   # pix_list=-3,13
 121873  QAFAIL 10MHz distribution box off FAIL?
-121871  QAFAIL 10MHz distribution box off   # pix_list=-3,15
-121869  QAFAIL 10MHz distribution box off   # pix_list=-3,15
-121865  QAFAIL 10MHz distribution box off   # pix_list=-3,15
-121863  QAFAIL 10MHz distribution box off   # pix_list=-3,15
-121861  QAFAIL 10MHz distribution box off   # pix_list=-3,15
+121871  QAFAIL 10MHz distribution box off   # pix_list=-3,13
+121869  QAFAIL 10MHz distribution box off   # pix_list=-3,13
+121865  QAFAIL 10MHz distribution box off   # pix_list=-3,13
+121863  QAFAIL 10MHz distribution box off   # pix_list=-3,13
+121861  QAFAIL 10MHz distribution box off   # pix_list=-3,13
 
-122278                                      # pix_list=-8,15
+122278                                      # pix_list=-8,13
 120458  QAFAIL bad wavys
 120533  bad ending?
 
 122027  blemish 3,8
-122029                   # pix_list=-8,15
+122029                   # pix_list=-8,13
 122705  blemish 0,1,2,3,8
 122707  blemish 0,1,2,3,8
 122709  low ripples?
