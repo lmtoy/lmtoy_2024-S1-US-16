@@ -39,6 +39,11 @@
 122707  blemish 0,1,2,3,8
 122709  low ripples?
 
+
+123250 beam 10, but others too   # pix_list=-10,13
+124412 ??? no spectrum
+124414 QAFAIL  all beams initial wavys
+
 # November data (obsnum >= 121861) seem to have beam 3 bad now
 
 120096_120355 nothing yet
